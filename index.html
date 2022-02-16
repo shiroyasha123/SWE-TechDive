@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    table, th, td {
+        border:1px solid black;
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table style="width:100%">
+    <tr>
+        <th>Patient's ID</th>
+        <th>Age</th>
+        <th>Sex</th>
+        <th>Zip Code</th>
+    </tr>
+        <td id="id"></td>
+        <td id="age"></td>
+        <td id="sex"></td>
+        <td id="zip"></td>
+    </tr>
+
+</table>
+<script>
+
+    fetch('https://raw.githubusercontent.com/shiroyasha123/SWE-TechDive/main/Patient%20Data.json')
+        .then(res => res.json())
+        .then(json => {
+            document.querySelector(id = '#age').innerText = json[0].AGE
+            document.querySelector(id = '#sex').innerText = json[0].SEX
+            document.querySelector(id = '#id').innerText = json[0].PATIENT_ID
+            document.querySelector(id = '#zip').innerText = json[0].ZIP
+        })
+</script>
+</body>
+</html>
