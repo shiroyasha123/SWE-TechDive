@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nerko+One&display=swap');
+
+
+/* ------------------------GLOBALS------------------------- */
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: arial;
+  min-width: 300px;
+  background:#e8e7e7;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+input[type=submit]:hover {
+  background: #fff;
+  color: #44338D;
+  cursor: pointer;
+}
+
+.main button {
+  background: #003568; 
+  color: #fff;
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+  font-weight:bolder;
+  color: #003568;
+}
+/* ------------------------Layout------------------------- */
+
+.default-layout {
+  display: gird;
+  grid-template-rows: 80px auto 3rem;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+}
+
+.default-layout button {
+  margin-right: 10px;
+}
+
+header {
+  grid-area: header;
+}
+
+main {
+  grid-area: main;
+  min-height: 88vh;
+}
+
+footer {
+  grid-area: footer;
+  background: #003568;
+  padding: 1rem;
+  color: white;
+}
+
+.breadcrumb {
+  margin-top: 20px;  
+}
+
+
+/*--------------------------------- Navigation -------------------------------*/
+
+#nav {
+  background: #003568;
+  color:#fff;
+  box-shadow: 0 5px 0 rgb(172, 185, 199);
+  position: sticky;
+}
+
+.nav-parent {
+  width: 100%;
+}
+
+.nav-container {
+  width: 100%;
+  max-width: 1028px;
+}
+
+.nav {
+
+  width: 100%;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2rem;
+  padding-left: 10px !important;
+}
+
+
+
+.logo {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2.5rem;
+  padding: 10px
+}
+
+.nav-right {
+  display: flex;
+
+}
+.search-input {
+  padding: 0px 20px 20px 20px;
+  max-width: 500px;
+  display:flex;
+  margin: auto;
+  max-width:800px;
+}
+
+
+/*-------------------------------------- Search Form------------------------------------ */
+
+.dash-form , .search-info{
+  background-color: #003568;
+  width: 100%;
+  max-width: 1320px;
+  color: #fff;
+  border-radius: 10px 10px 0 0;
+}
+
+.dash-form  input[type=text] {
+  flex-grow: 1;
+  border-width: 0 0 1px 0;
+  margin: 15px 10px 15px 15px;
+  padding: 10px;
+  border-radius: 5px;
+  background: #002242;
+  border-style: none;
+  text-shadow: none;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 2px;
+  outline: none;
+} 
+
+.dash-form input[type=text]::-webkit-input-placeholder{
+  color: #E2DFD2;
+  letter-spacing: 2px;
+}
+
+.dash-form input[type=text]:focus{
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.dash-form  input[type=submit], .dash-form button {
+  display: block;
+  font-size: .6em;
+  margin: 15px 15px 15px 0; 
+  padding: 10px;
+  background-color: #002A53;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-shadow: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dash-form  button, .exam-btn, .table-button,
+.add-button {
+  outline: none;
+  transition: background-color 0.2s ease,
+  color 0.2s ease !important;
+}
+
+.add-button {
+  background: #6fb8ff !important;
+}
+
+.search-form {
+  display: flex;
+}
+
+.search-info {
+  font-size: 2rem;
+  font-family: 'Bebas Neue', cursive;
+}
+
+  /*-------------------------------- Table -----------------------------*/  
+  thead, tbody, tfoot, tr, td, th {
+    border: none;
+  }
+
+  th {
+    background: #003568;
+  }
+  .table-row {
+    background: #fff;
+  }
+  .table-head {
+    background:#003568;
+    color: #fff;
+  }
+
+  .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+    background-color: #eff7ff;
+ }
+
+ .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #6fb8ff;
+  color: white;
+  font-weight:bolder;
+}
+
+  .table-button {
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-family: 'Bebas Neue', cursive;
+  }
+
+  .table-button:hover, 
+  .add-button:hover {
+    background: #fff !important ;
+    color: #003568 !important;
+    cursor: pointer;
+  }
+
+  td {
+    width: 25%;
+  }
+  
+  .table > tbody > tr > td,
+  .table > thead > tr > th {
+    vertical-align: middle;
+}
+
