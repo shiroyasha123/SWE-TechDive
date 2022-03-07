@@ -1,0 +1,461 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nerko+One&display=swap');
+
+
+/* ------------------------GLOBALS------------------------- */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #e8e7e7;
+}
+
+body.admin {
+  background: #121212
+}
+
+span {
+  white-space:nowrap;
+}
+
+
+
+img {
+  max-width: 100px;
+}
+
+a {
+  padding-left: 0;
+}
+
+/* -----------------------NAVIGATION------------------------*/
+
+.navbar {
+  background: #003568;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.admin .navbar {
+  background: #121212!important
+}
+
+/* -----------------------EXAM TABLE------------------------*/
+
+th {
+  background:#003568 !important;
+  color: white;
+  margin-top: 5px;
+}
+
+tbody {
+  width: 100%;
+}
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+  background-color: #eff7ff;
+}
+
+#exam-table-top {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #003568;
+  padding: 10px;
+}
+
+.admin #exam-table-top {
+  background: #121212!important;
+}
+
+
+#exam-table-top input {
+  flex-grow: 1;
+  background: #002242;
+  padding: 10px;
+  border-style: none;
+  border-radius: 5px;
+  color: #fff;
+}
+
+
+.admin #exam-table-top input {
+  background: rgba(0, 53, 104, 0.5);
+}
+
+
+#exam-table-top input:focus {
+  border: none!important;
+  outline: none;
+}
+
+.table {
+  margin: 0 0 40px 0;
+  width: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  display: table;
+  background: #fff;
+ }
+
+.exam-row {
+  display: table-row;
+  background: #f6f6f6;
+}
+.admin .exam-row {
+  background: #202020;
+  color:#cccccc;
+}
+
+.exam-row:nth-of-type(odd) {
+  background: #e9e9e9;
+}
+
+.admin .exam-row:nth-of-type(odd) {
+  background: #121212;
+}
+
+.exam-row.header {
+  font-weight: 900;
+  color: #ffffff;
+  background: #003568;
+}
+
+.admin .exam-row.header {
+  color: #cccccc;
+  background: #121212 !important;
+}
+
+.cell {
+  padding: 6px 12px;
+  display: table-cell;
+ }
+
+ .admin .admin-cell {
+  display: table-cell !important;
+ }
+ .hideExam {
+   display: none!important;
+ }
+
+ .cell button {
+   background: #003568;
+   color: #fff;
+   border: none;
+ }
+
+ .admin .cell button {
+  background: rgba(0, 53, 104, 0.5);
+  color: #fff;
+  border: none;
+}
+
+.admin #admin-btns {
+  display: inline-block!important;
+}
+
+
+/* --------------------------FOOTER----------------------------*/
+
+footer {
+  background:#003568;
+  color: white;
+  height: 3vh;
+}
+
+ footer.admin {
+  background:#121212!important
+}
+
+
+
+/* ---------------------------Exam modal----------------------------*/
+.modal-header {
+  border-bottom: none;
+  background:#003568;
+  color: #fff;
+}
+
+.admin .modal-header {
+  border-bottom: none;
+  background: #09243d;
+  color: #ccc;
+}
+
+.admin .modal-content {
+  background: #09243d;
+  border:5px solid #09243d;
+  color: #ccc;
+}
+
+
+.modal-item:before {
+  margin-bottom: 3px;
+  content: attr(data-title);
+  min-width: 98px;
+  font-size: 10px;
+  line-height: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #003568;
+  font-weight: bolder;
+  display: block; 
+}
+
+
+.admin .modal-item:before {
+  color: #0dcaf0;
+}
+
+.examInfo-bottom-container {
+  display: flex;
+  flex-direction: row;
+}
+.modal img {
+  width:100%;
+  max-width: 100%;
+}
+
+
+/* ---------------------------Update modal-------------------------*/
+.admin .modal-content .update-info  {
+  background:#09243d ;
+}
+
+.update-container h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.update-container a {
+  text-decoration: none;
+  color: lightskyblue;
+}
+
+.update-btn {
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  background: lightskyblue;
+  padding: 15px;
+  font-family: inherit;
+  border: 0;
+  border-radius: 5px;
+}
+
+.update-btn:focus {
+  outline: 0;
+}
+
+.update-btn:active {
+  transform: scale(0.98);
+}
+
+.update-text {
+  margin-top: 30px;
+}
+.update-form-control {
+  position: relative;
+  margin: 20px 0 40px;
+  width: 100%;
+  background-color: transparent !important;
+  border: none;
+}
+
+.update-form-control input {
+  background-color: transparent !important;
+  border: 0;
+  border-bottom: 2px #fff solid;
+  display: block;
+  width: 100%;
+  height:50px;
+  padding: 15px 0;
+  font-size: 18px;
+  color: #fff;
+  z-index: 5;
+
+}
+
+.update-form-control input:focus, 
+.update-form-control input:valid {
+  outline:none;
+  border-bottom-color: lightskyblue;
+}
+
+.update-form-control label {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  z-index:0
+}
+
+.update-form-control label span {
+  display: inline-block;
+  font-size: 18px;
+  min-width: 5px;
+  transition: 0.2s cubic-bezier(0.68,-0.55,0.265,1.55);
+}
+
+.update-form-control input:focus + label span,
+.update-form-control input:valid + label span {
+  color:lightskyblue;
+  transform: translateY(-30px);
+}
+
+.update-textarea {
+  background: #000;
+  color: #ccc;
+  width: 100%;
+  height: 25vh;
+  border: none;
+  border-radius: 5px;
+  padding:5px;
+}
+
+.update-container form {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap
+}
+
+.update-form-info {
+  flex: 1 1 0px;
+}
+
+.form-btn {
+  text-align: center;
+  width: 300px;
+  
+}
+  
+
+/* -----------------------Index Animation------------------------*/
+
+
+body .index-anim {
+  margin:0;
+}
+
+.index-anim  .bg {
+  animation:slide 3s ease-in-out infinite alternate;
+  background-image: linear-gradient(-60deg, rgba(0,34,66,1) 50%, #09f 50%);
+  bottom:0;
+  left:-50%;
+  opacity:.5;
+  position:fixed;
+  right:-50%;
+  top:0;
+  z-index:-1;
+}
+
+.index-anim  .bg2 {
+  animation-direction:alternate-reverse;
+  animation-duration:4s;
+}
+
+.index-anim  .bg3 {
+  animation-duration:5s;
+}
+
+.index-anim  .content {
+  background-color:rgba(0,0,0,0.6);
+  color: #fff;
+  border-radius:.25em;
+  box-shadow:0 0 .25em rgba(0,0,0,.25);
+  box-sizing:border-box;
+  left:50%;
+  padding:10vmin;
+  position:fixed;
+  text-align:center;
+  top:50%;
+  transform:translate(-50%, -50%);
+  width: 90vw;
+  max-width: 580px;
+}
+
+.index-anim h1 {
+  font-family:monospace;
+  
+}
+
+@keyframes slide {
+  0% {
+    transform:translateX(-25%);
+  }
+  100% {
+    transform:translateX(25%);
+  }
+}
+
+
+
+/* -----------------------MEDIA QUERIES------------------------*/
+@media screen and (max-width: 860px) {
+  .cell {
+    padding: 2px 16px;
+    display: inline-block; 
+    /* justify-content: center; */
+  }
+
+  .xray-img {
+    display:block;
+    width: 96vw !important;
+  }
+  .exam-row .cell:before,
+  .exam-row button:before,
+  .modal-item:before {
+    margin-bottom: 3px;
+    content: attr(data-title);
+    min-width: 98px;
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #003568;
+    font-weight: bolder;
+    display: block; 
+  }
+
+  .admin .exam-row .cell:before,
+  .admin .exam-row button:before,
+  .admin .modal-item:before {
+    color: #0dcaf0;
+  }
+
+  .exam-row.header .cell {
+    display: none; 
+  }
+
+  .table {
+    display: block;
+  }
+
+  .exam-row {
+    border-top: 50px solid #003568 !important;
+  }
+
+  .exam-row.header {
+    padding: 0;
+    height: 6px; 
+  }
+
+  .exam-row .cell {
+    margin-bottom: 10px; 
+  }
+  .update-form-info {
+    flex: 0 1 auto;  
+  }
+}
+
+
+
+@media screen and (max-width: 425px) {
+  .cell {
+    padding: 2px 16px;
+    display: inline-block; 
+    /* justify-content: center; */
+  }
+
+  span .cell {
+    padding-left: 15px;
+  }
+}
+

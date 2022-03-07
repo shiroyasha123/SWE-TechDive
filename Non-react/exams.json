@@ -1,0 +1,2788 @@
+
+[
+{
+  "_id": {
+    "$oid": "62082528799b0425669c2e6c"
+  },
+  "patient_Id": "COVID-19-AR-16434409",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Subtle patchy bibasilar and right upper lobe airspace  opacities",
+  "png_filename": "COVID-19-AR-16434409_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e6d"
+  },
+  "patient_Id": "COVID-19-AR-16434381",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Streaky opacities in bilateral mid and left lower lung.  Patchy opacities  in the right lower lung.  No pleural effusion.  ",
+  "png_filename": "COVID-19-AR-16434381_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e6e"
+  },
+  "patient_Id": "COVID-19-AR-16434381",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "56",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Lung volumes remain low but there appears to have been clearing since  prior radiograph",
+  "png_filename": "COVID-19-AR-16434381_XR_CHEST_AP_ONLY_1.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e6f"
+  },
+  "patient_Id": "COVID-19-AR-16406513",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "19",
+  "Image_study_description": "XR CHEST PA AND LATERAL",
+  "study_modality": "CR,DX",
+  "key_findings": " patchy increased opacity in the lower lobes bilaterally, more pronounced on the lateral view.  Small pleural effusions ",
+  "png_filename": "COVID-19-AR-16406513_XR_CHEST_PA_AND_LATERAL_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e70"
+  },
+  "patient_Id": "COVID-19-AR-16406513",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "51",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy, airspace opacities are seen within the bilateral lower lungs, predominantly left-sided.  Haziness of the left costophrenic angle.  ",
+  "png_filename": "COVID-19-AR-16406513_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e71"
+  },
+  "patient_Id": "COVID-19-AR-16439216",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "16",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No relevant findings",
+  "png_filename": "COVID-19-AR-16439216_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e72"
+  },
+  "patient_Id": "COVID-19-AR-16439216",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "98",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Interval development of patchy areas of consolidation predominately in  the lung bases suspicious for infection.",
+  "png_filename": "COVID-19-AR-16439216_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e73"
+  },
+  "patient_Id": "COVID-19-AR-16406491",
+  "Diag_to_img_study_days": "10",
+  "Diagnosis_to_imaging_time_hrs": "254",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "There has been development of bilateral lower lobe airspace disease  consistent with multilobar pneumonia",
+  "png_filename": "COVID-19-AR-16406491_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e74"
+  },
+  "patient_Id": "COVID-19-AR-16406496",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "21",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy ground-glass opacities in the left lung and in the right lower  lobe which may be infectious in etiology",
+  "png_filename": "COVID-19-AR-16406496_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e75"
+  },
+  "patient_Id": "COVID-19-AR-16406496",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "55",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Patchy ground-glass  changes are seen within the left lung and in the right lower lung not  significantly changed compared to the prior study.",
+  "png_filename": "COVID-19-AR-16406496_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e76"
+  },
+  "patient_Id": "COVID-19-AR-16424082",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "13",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Bilateral patchy airspace disease involving both mid and lower lung zones, left worse than the right. ",
+  "png_filename": "COVID-19-AR-16424082_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e77"
+  },
+  "patient_Id": "COVID-19-AR-16424082",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "58",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "significant worsening of airspace disease, now very extensive and patchy sparing only apices.",
+  "png_filename": "COVID-19-AR-16424082_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e78"
+  },
+  "patient_Id": "COVID-19-AR-16424082",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "72",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "significant worsening of bilateral patchy airspace changes involving all lung zones with relative sparing of both lung apices.",
+  "png_filename": "COVID-19-AR-16424082_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e79"
+  },
+  "patient_Id": "COVID-19-AR-16406504",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "21",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Bibasilar opacities are seen most pronounced on the left.  No large pleural effusion identified. ",
+  "png_filename": "COVID-19-AR-16406504_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e7a"
+  },
+  "patient_Id": "COVID-19-AR-16406504",
+  "Diag_to_img_study_days": "10",
+  "Diagnosis_to_imaging_time_hrs": "247",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Left lower lobe airspace  disease is seen.",
+  "png_filename": "COVID-19-AR-16406504_XR_CHEST_AP_ONLY_1.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e7b"
+  },
+  "patient_Id": "COVID-19-AR-16434350",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "11",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "subtle peribronchovascular opacities are noted within both lung bases.  There is somewhat bandlike opacity seen in the region of the lateral right upper lung.  ",
+  "png_filename": "COVID-19-AR-16434350_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e7c"
+  },
+  "patient_Id": "COVID-19-AR-16406502",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "23",
+  "Image_study_description": "XR CHEST PA AND LATERAL",
+  "study_modality": "DX",
+  "key_findings": "No pleural effusions. ",
+  "png_filename": "COVID-19-AR-16406502_XR_CHEST_PA_AND_LATERAL_4.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e7d"
+  },
+  "patient_Id": "COVID-19-AR-16406502",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "56",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Low lung volumes with minimal bibasilar subsegmental atelectasis. ",
+  "png_filename": "COVID-19-AR-16406502_XR_CHEST_AP_ONLY_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e7e"
+  },
+  "patient_Id": "COVID-19-AR-16406502",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "82",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Lung volumes remain low but lungs are clear",
+  "png_filename": "COVID-19-AR-16406502_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e7f"
+  },
+  "patient_Id": "COVID-19-AR-16406502",
+  "Diag_to_img_study_days": "28",
+  "Diagnosis_to_imaging_time_hrs": "686",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs  are clear and without focal consolidation. ",
+  "png_filename": "COVID-19-AR-16406502_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-6"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e80"
+  },
+  "patient_Id": "COVID-19-AR-16406494",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Bibasilar airspace opacities ",
+  "png_filename": "COVID-19-AR-16406494_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e81"
+  },
+  "patient_Id": "COVID-19-AR-16406494",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "62",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Worsening bilateral  airspace disease is seen within the lower lobes",
+  "png_filename": "COVID-19-AR-16406494_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e82"
+  },
+  "patient_Id": "COVID-19-AR-16424105",
+  "Diag_to_img_study_days": "-1",
+  "Diagnosis_to_imaging_time_hrs": "-6",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No significant airspace consolidation bilaterally",
+  "png_filename": "COVID-19-AR-16424105_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e83"
+  },
+  "patient_Id": "COVID-19-AR-16424105",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "13",
+  "Image_study_description": "XR CHEST PA AND LATERAL",
+  "study_modality": "CR,DX",
+  "key_findings": " Lungs are clear, no nodule, airspace disease or pleural  effusion.",
+  "png_filename": "COVID-19-AR-16424105_XR_CHEST_PA_AND_LATERAL_4.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e84"
+  },
+  "patient_Id": "COVID-19-AR-16424105",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "33",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Right  basilar atelectasis",
+  "png_filename": "COVID-19-AR-16424105_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e85"
+  },
+  "patient_Id": "COVID-19-AR-16439195",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "22",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are free of air space disease",
+  "png_filename": "COVID-19-AR-16439195_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e86"
+  },
+  "patient_Id": "COVID-19-AR-16445144",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No focal consolidation in the lungs.",
+  "png_filename": "COVID-19-AR-16445144_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e87"
+  },
+  "patient_Id": "COVID-19-AR-16424071",
+  "Diag_to_img_study_days": "28",
+  "Diagnosis_to_imaging_time_hrs": "680",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Subtle patchy airspace disease in the right lung base.",
+  "png_filename": "COVID-19-AR-16424071_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e88"
+  },
+  "patient_Id": "COVID-19-AR-16439186",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "119",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are clear and well  inflated.",
+  "png_filename": "COVID-19-AR-16439186_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e89"
+  },
+  "patient_Id": "COVID-19-AR-16406521",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "45",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Bibasilar linear opacities may be related to atelectasis or infection. ",
+  "png_filename": "COVID-19-AR-16406521_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e8a"
+  },
+  "patient_Id": "COVID-19-AR-16406521",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "81",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "There has been interval worsening of the diffuse  opacities throughout the lung bases. ",
+  "png_filename": "COVID-19-AR-16406521_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e8b"
+  },
+  "patient_Id": "COVID-19-AR-16406505",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "23",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "multifocal lower lobe  predominant consolidation bilaterally.",
+  "png_filename": "COVID-19-AR-16406505_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e8c"
+  },
+  "patient_Id": "COVID-19-AR-16406505",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "133",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "CR",
+  "key_findings": " Patchy opacities are noted at lung bases greater on left than right. There appears to be very slight worsening on left, no change on right. No large effusion noted.",
+  "png_filename": "COVID-19-AR-16406505_XR_CHEST_AP_ONLY_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e8d"
+  },
+  "patient_Id": "COVID-19-AR-16406526",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "19",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "he lungs are well-aerated  with no evidence of pneumonic infiltration or pleural effusion",
+  "png_filename": "COVID-19-AR-16406526_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e8e"
+  },
+  "patient_Id": "COVID-19-AR-16406526",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "126",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "no acute airspace changes seen in both lungs",
+  "png_filename": "COVID-19-AR-16406526_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e8f"
+  },
+  "patient_Id": "COVID-19-AR-16434452",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "17",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Indeterminate 2 cm left upper nodule, felt to represent a calcified  granuloma.",
+  "png_filename": "COVID-19-AR-16434452_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e90"
+  },
+  "patient_Id": "COVID-19-AR-16434452",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "164",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Subtle airspace opacity in the right upper lobe.",
+  "png_filename": "COVID-19-AR-16434452_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e91"
+  },
+  "patient_Id": "COVID-19-AR-16424075",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "23",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are  hypoinflated with worsening bibasilar opacities",
+  "png_filename": "COVID-19-AR-16424075_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e92"
+  },
+  "patient_Id": "COVID-19-AR-16424075",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "53",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Mild bibasilar airspace disease, slightly improved on the right",
+  "png_filename": "COVID-19-AR-16424075_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e93"
+  },
+  "patient_Id": "COVID-19-AR-16424081",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "7",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No acute disease.",
+  "png_filename": "COVID-19-AR-16424081_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e94"
+  },
+  "patient_Id": "COVID-19-AR-16424081",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "65",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Subtle bibasilar opacities are noted",
+  "png_filename": "COVID-19-AR-16424081_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e95"
+  },
+  "patient_Id": "COVID-19-AR-16434347",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "17",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Ground-glass opacities in bilateral lower lobes slightly more  pronounced on the right side with additional right lung base  ",
+  "png_filename": "COVID-19-AR-16434347_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e96"
+  },
+  "patient_Id": "COVID-19-AR-16406488",
+  "Diag_to_img_study_days": "-7",
+  "Diagnosis_to_imaging_time_hrs": "-150",
+  "Image_study_description": "XR CHEST PA AND LATERAL",
+  "study_modality": "DX",
+  "key_findings": "Persistent trace left pleural  effusion.",
+  "png_filename": "COVID-19-AR-16406488_XR_CHEST_PA_AND_LATERAL_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e97"
+  },
+  "patient_Id": "COVID-19-AR-16406488",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "21",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "CR",
+  "key_findings": "perinflated lungs with flattened diaphragms, suggestive of COPD",
+  "png_filename": "COVID-19-AR-16406488_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e98"
+  },
+  "patient_Id": "COVID-19-AR-16406488",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "55",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "subtle airspace  disease versus chronic parenchymal changes along the left lung base. ",
+  "png_filename": "COVID-19-AR-16406488_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e99"
+  },
+  "patient_Id": "COVID-19-AR-16445151",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Interval development of right infrahilar opacities",
+  "png_filename": "COVID-19-AR-16445151_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e9a"
+  },
+  "patient_Id": "COVID-19-AR-16445151",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "132",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " The lungs are  clear without focal airspace opacification.",
+  "png_filename": "COVID-19-AR-16445151_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e9b"
+  },
+  "patient_Id": "COVID-19-AR-16424115",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "16",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "patchy  bibasilar opacities",
+  "png_filename": "COVID-19-AR-16424115_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e9c"
+  },
+  "patient_Id": "COVID-19-AR-16424115",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "10",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Bibasilar atelectasis and low lung volumes.",
+  "png_filename": "COVID-19-AR-16424115_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e9d"
+  },
+  "patient_Id": "COVID-19-AR-16406490",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Subtle hazy opacities in the bilateral lung bases",
+  "png_filename": "COVID-19-AR-16406490_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e9e"
+  },
+  "patient_Id": "COVID-19-AR-16406545",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "20",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "subtle airspace disease developing in the left lower lobe",
+  "png_filename": "COVID-19-AR-16406545_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2e9f"
+  },
+  "patient_Id": "COVID-19-AR-16406561",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "38",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Hazy airspace opacities are seen throughout the bilateral lower lungs, right greater than left. ",
+  "png_filename": "COVID-19-AR-16406561_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea0"
+  },
+  "patient_Id": "COVID-19-AR-16406561",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "181",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": " worsening of bilateral lower lobe opacities consistent with airspace disease, much more dense in the retrocardiac left lower lobe, consistent with consolidation. ",
+  "png_filename": "COVID-19-AR-16406561_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea1"
+  },
+  "patient_Id": "COVID-19-AR-16424116",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "21",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Haziness of the  left cardiac border",
+  "png_filename": "COVID-19-AR-16424116_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea2"
+  },
+  "patient_Id": "COVID-19-AR-16424116",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "79",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "There is increasing airspace opacity in the right upper lobe.  ",
+  "png_filename": "COVID-19-AR-16424116_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea3"
+  },
+  "patient_Id": "COVID-19-AR-16424116",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "129",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Increased left pleural effusion with consolidation and/or atelectasis in the left lower lobe. ",
+  "png_filename": "COVID-19-AR-16424116_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea4"
+  },
+  "patient_Id": "COVID-19-AR-16434366",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "23",
+  "Image_study_description": "XR CHEST PA ONLY",
+  "study_modality": "DX",
+  "key_findings": "Subtle hazy opacities at both lung bases ",
+  "png_filename": "COVID-19-AR-16434366_XR_CHEST_PA_ONLY_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea5"
+  },
+  "patient_Id": "COVID-19-AR-16434369",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Right  upper lobe atelectasis",
+  "png_filename": "COVID-19-AR-16434369_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea6"
+  },
+  "patient_Id": "COVID-19-AR-16434369",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "102",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "ncreased bilateral lower lung and right midlung airspace  opacities",
+  "png_filename": "COVID-19-AR-16434369_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea7"
+  },
+  "patient_Id": "COVID-19-AR-16406489",
+  "Diag_to_img_study_days": "15",
+  "Diagnosis_to_imaging_time_hrs": "377",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "no acute disease, no focal pneumonia",
+  "png_filename": "COVID-19-AR-16406489_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea8"
+  },
+  "patient_Id": "COVID-19-AR-16424093",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "69",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " lungs appear clear without focal consolidation",
+  "png_filename": "COVID-19-AR-16424093_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ea9"
+  },
+  "patient_Id": "COVID-19-AR-16434358",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "87",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Diffuse bibasilar haziness with possible trace pleural effusion. ",
+  "png_filename": "COVID-19-AR-16434358_XR_CHEST_AP_PORTABLE_4.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eaa"
+  },
+  "patient_Id": "COVID-19-AR-16434358",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "133",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Stable hazy ill-defined airspace opacities throughout both lungs",
+  "png_filename": "COVID-19-AR-16434358_XR_CHEST_AP_PORTABLE_4.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eab"
+  },
+  "patient_Id": "COVID-19-AR-16434358",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "128",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Slight increase of the ill-defined hazy airspace opacifications  throughout the bilateral lungs with subtle lower lobe predominance",
+  "png_filename": "COVID-19-AR-16434358_XR_CHEST_AP_PORTABLE_4.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eac"
+  },
+  "patient_Id": "COVID-19-AR-16434358",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "150",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Persistent bilateral airspace disease but perhaps slight improvement,",
+  "png_filename": "COVID-19-AR-16434358_XR_CHEST_AP_PORTABLE_4.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ead"
+  },
+  "patient_Id": "COVID-19-AR-16406498",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "88",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are clear",
+  "png_filename": "COVID-19-AR-16406498_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eae"
+  },
+  "patient_Id": "COVID-19-AR-16406498",
+  "Diag_to_img_study_days": "12",
+  "Diagnosis_to_imaging_time_hrs": "288",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "he lungs are clear and  without acute airspace disease",
+  "png_filename": "COVID-19-AR-16406498_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eaf"
+  },
+  "patient_Id": "COVID-19-AR-16406498",
+  "Diag_to_img_study_days": "22",
+  "Diagnosis_to_imaging_time_hrs": "535",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No significant pleural  effusions.  No acute consolidation.",
+  "png_filename": "COVID-19-AR-16406498_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb0"
+  },
+  "patient_Id": "COVID-19-AR-16407173",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Right lung is low in volume but  otherwise clear of significant consolidation.",
+  "png_filename": "COVID-19-AR-16407173_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb1"
+  },
+  "patient_Id": "COVID-19-AR-16407173",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "55",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "There is also interval improvement in the left retrocardiac airspace disease with the peribronchovascular changes noted. There is interval development of minimal peribronchovascular airspace disease in the right upper lobe.  ",
+  "png_filename": "COVID-19-AR-16407173_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb2"
+  },
+  "patient_Id": "COVID-19-AR-16407173",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "138",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Trace peribronchovascular airspace disease is noted within the right upper lobe, otherwise the lungs are clear without focal consolidation. ",
+  "png_filename": "COVID-19-AR-16407173_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb3"
+  },
+  "patient_Id": "COVID-19-AR-16434380",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "19",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "There is mild, diffuse interstitial reticular pattern  throughout the lungs",
+  "png_filename": "COVID-19-AR-16434380_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb4"
+  },
+  "patient_Id": "COVID-19-AR-16406503",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "10",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "lungs appear clear with no nodule, airspace  consolidation or pleural effusion",
+  "png_filename": "COVID-19-AR-16406503_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb5"
+  },
+  "patient_Id": "COVID-19-AR-16424083",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are free of air space  disease",
+  "png_filename": "COVID-19-AR-16424083_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb6"
+  },
+  "patient_Id": "COVID-19-AR-16406542",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "16",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "subtle hazy opacities noted predominantly within the lung bases",
+  "png_filename": "COVID-19-AR-16406542_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb7"
+  },
+  "patient_Id": "COVID-19-AR-16406542",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "34",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Diffuse bilateral peribronchovascular opacities throughout both lungs, worsened since recent prior.",
+  "png_filename": "COVID-19-AR-16406542_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb8"
+  },
+  "patient_Id": "COVID-19-AR-16406542",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "122",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Fairly diffuse airspace disease throughout the lungs shows no improvement",
+  "png_filename": "COVID-19-AR-16406542_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eb9"
+  },
+  "patient_Id": "COVID-19-AR-16406542",
+  "Diag_to_img_study_days": "11",
+  "Diagnosis_to_imaging_time_hrs": "274",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Ill-defined peripheral airspace opacities appear to have improved as compared to the prior study",
+  "png_filename": "COVID-19-AR-16406542_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eba"
+  },
+  "patient_Id": "COVID-19-AR-16406542",
+  "Diag_to_img_study_days": "17",
+  "Diagnosis_to_imaging_time_hrs": "427",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Bibasilar  consolidation and/or atelectasis with small left pleural  effusion,  increased from the previous exam. ",
+  "png_filename": "COVID-19-AR-16406542_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ebb"
+  },
+  "patient_Id": "COVID-19-AR-16406542",
+  "Diag_to_img_study_days": "21",
+  "Diagnosis_to_imaging_time_hrs": "509",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Residual ill-defined bibasilar opacities, not  significantly changed",
+  "png_filename": "COVID-19-AR-16406542_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-6"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ebc"
+  },
+  "patient_Id": "COVID-19-AR-16434378",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "34",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No definite acute cardiopulmonary findings",
+  "png_filename": "COVID-19-AR-16434378_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ebd"
+  },
+  "patient_Id": "COVID-19-AR-16424129",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No focal  consolidation or pleural effusion",
+  "png_filename": "COVID-19-AR-16424129_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ebe"
+  },
+  "patient_Id": "COVID-19-AR-16424129",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "46",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Subtle bibasilar airspace opacities",
+  "png_filename": "COVID-19-AR-16424129_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ebf"
+  },
+  "patient_Id": "COVID-19-AR-16424129",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "78",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "bilateral lower lung atelectatic changes and  mild superimposed bilateral lower lung ill-defined airspace opacities  are not significantly changed",
+  "png_filename": "COVID-19-AR-16424129_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec0"
+  },
+  "patient_Id": "COVID-19-AR-16424103",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "82",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy airspace opacity  within the left  lower lobe and to a lesser extent within the right lower lobe",
+  "png_filename": "COVID-19-AR-16424103_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec1"
+  },
+  "patient_Id": "COVID-19-AR-16424103",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "106",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "mild bibasilar airspace disease is not significantly changed from prior ",
+  "png_filename": "COVID-19-AR-16424103_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec2"
+  },
+  "patient_Id": "COVID-19-AR-16424103",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "151",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " streaky opacities mainly in the lung bases near the hemidiaphragms.  Increased somewhat patchy opacities are now seen in both lung bases more conspicuous compared to the prior studies. ",
+  "png_filename": "COVID-19-AR-16424103_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec3"
+  },
+  "patient_Id": "COVID-19-AR-16424103",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "177",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Stable bibasilar streaky opacities are noted with interval blunting of bilateral costophrenic angles. ",
+  "png_filename": "COVID-19-AR-16424103_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec4"
+  },
+  "patient_Id": "COVID-19-AR-16424079",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "86",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "no evidence of  any pneumonic infiltration or pleural effusion",
+  "png_filename": "COVID-19-AR-16424079_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec5"
+  },
+  "patient_Id": "COVID-19-AR-16424079",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "158",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "hazy opacities within the right lung base and to a lesser  extent within the left lung base",
+  "png_filename": "COVID-19-AR-16424079_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec6"
+  },
+  "patient_Id": "COVID-19-AR-16434361",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "8",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "multiple patchy ill-defined  airspace opacities bilaterally",
+  "png_filename": "COVID-19-AR-16434361_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec7"
+  },
+  "patient_Id": "COVID-19-AR-16434361",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "30",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "some worsening of now somewhat more diffuse airspace disease.  Airspace disease is increased in right upper lobe. Left upper lobe however spared.  Persistent airspace disease seen in both lower lobes.",
+  "png_filename": "COVID-19-AR-16434361_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec8"
+  },
+  "patient_Id": "COVID-19-AR-16434361",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "131",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Diffuse opacities are again noted. There may be small  layering pleural effusions.",
+  "png_filename": "COVID-19-AR-16434361_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ec9"
+  },
+  "patient_Id": "COVID-19-AR-16434411",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Bibasilar opacities",
+  "png_filename": "COVID-19-AR-16434411_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eca"
+  },
+  "patient_Id": "COVID-19-AR-16439183",
+  "Diag_to_img_study_days": "8",
+  "Diagnosis_to_imaging_time_hrs": "192",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are hypoinflated with bibasilar airspace opacities. ",
+  "png_filename": "COVID-19-AR-16439183_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ecb"
+  },
+  "patient_Id": "COVID-19-AR-16406522",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "interval  development of right pleural effusion with bibasilar linear opacity",
+  "png_filename": "COVID-19-AR-16406522_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ecc"
+  },
+  "patient_Id": "COVID-19-AR-16406522",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "83",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "blunting of the left  costophrenic angle suggestive of small pleural effusion",
+  "png_filename": "COVID-19-AR-16406522_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ecd"
+  },
+  "patient_Id": "COVID-19-AR-16406559",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "178",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " ill-defined densities at the lung bases left greater than the  right",
+  "png_filename": "COVID-19-AR-16406559_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ece"
+  },
+  "patient_Id": "COVID-19-AR-16406559",
+  "Diag_to_img_study_days": "51",
+  "Diagnosis_to_imaging_time_hrs": "1234",
+  "Image_study_description": "XR CHEST PA AND LATERAL",
+  "study_modality": "DX",
+  "key_findings": "clearing of previous ill-defined opacities at lung  base",
+  "png_filename": "COVID-19-AR-16406559_XR_CHEST_PA_AND_LATERAL_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ecf"
+  },
+  "patient_Id": "COVID-19-AR-16439192",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "increased  patchy opacities throughout the lungs bilaterally ",
+  "png_filename": "COVID-19-AR-16439192_XR_CHEST_AP_PORTABLE_9.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed0"
+  },
+  "patient_Id": "COVID-19-AR-16439192",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "2",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Subtle perihilar hazy opacity noted bilaterally consistent with early  airspace disease but no dense consolidation",
+  "png_filename": "COVID-19-AR-16439192_XR_CHEST_AP_PORTABLE_9.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed1"
+  },
+  "patient_Id": "COVID-19-AR-16439192",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "106",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Significant worsening in multifocal infection involving both lung",
+  "png_filename": "COVID-19-AR-16439192_XR_CHEST_AP_PORTABLE_9.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed2"
+  },
+  "patient_Id": "COVID-19-AR-16439192",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "157",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy airspace opacities throughout both lungs, without  significant change",
+  "png_filename": "COVID-19-AR-16439192_XR_CHEST_AP_PORTABLE_9.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed3"
+  },
+  "patient_Id": "COVID-19-AR-16439192",
+  "Diag_to_img_study_days": "8",
+  "Diagnosis_to_imaging_time_hrs": "214",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Interval development of moderate-sized right pneumothorax.    Stable patchy opacities throughout both lungs",
+  "png_filename": "COVID-19-AR-16439192_XR_CHEST_AP_PORTABLE_9.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed4"
+  },
+  "patient_Id": "COVID-19-AR-16439192",
+  "Diag_to_img_study_days": "9",
+  "Diagnosis_to_imaging_time_hrs": "216",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Stable patchy opacities throughout both lungs",
+  "png_filename": "COVID-19-AR-16439192_XR_CHEST_AP_PORTABLE_9.png",
+  "exam_Id": "Exam-6"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed5"
+  },
+  "patient_Id": "COVID-19-AR-16439192",
+  "Diag_to_img_study_days": "13",
+  "Diagnosis_to_imaging_time_hrs": "320",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " No improvement in the diffuse bilateral patchy infiltrates",
+  "png_filename": "COVID-19-AR-16439192_XR_CHEST_AP_PORTABLE_9.png",
+  "exam_Id": "Exam-7"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed6"
+  },
+  "patient_Id": "COVID-19-AR-16406500",
+  "Diag_to_img_study_days": "-1",
+  "Diagnosis_to_imaging_time_hrs": "-3",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Lungs are well inflated and clear, no nodule, airspace disease or  pleural effusion",
+  "png_filename": "COVID-19-AR-16406500_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed7"
+  },
+  "patient_Id": "COVID-19-AR-16406500",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "21",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No significant pleural  effusions.  No acute consolidation",
+  "png_filename": "COVID-19-AR-16406500_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed8"
+  },
+  "patient_Id": "COVID-19-AR-16424106",
+  "Diag_to_img_study_days": "-1",
+  "Diagnosis_to_imaging_time_hrs": "-1",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No pleural effusion, pneumothorax or consolidation",
+  "png_filename": "COVID-19-AR-16424106_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ed9"
+  },
+  "patient_Id": "COVID-19-AR-16445138",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "25",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "mild bibasilar opacities and some  peribronchovascular opacities in the right upper lobe",
+  "png_filename": "COVID-19-AR-16445138_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eda"
+  },
+  "patient_Id": "COVID-19-AR-16434371",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "20",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs appear clear with no evidence of airspace consolidation",
+  "png_filename": "COVID-19-AR-16434371_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2edb"
+  },
+  "patient_Id": "COVID-19-AR-16434371",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "32",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are clear and  without evidence of focal consolidation.",
+  "png_filename": "COVID-19-AR-16434371_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2edc"
+  },
+  "patient_Id": "COVID-19-AR-16445168",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Wedge shaped opacity in the right middle lobe",
+  "png_filename": "COVID-19-AR-16445168_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2edd"
+  },
+  "patient_Id": "COVID-19-AR-16406517",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " lungs are clear and without  focal consolidation",
+  "png_filename": "COVID-19-AR-16406517_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ede"
+  },
+  "patient_Id": "COVID-19-AR-16406517",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "110",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "subtle  increased perihilar hazy airspace opacities bilaterally",
+  "png_filename": "COVID-19-AR-16406517_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2edf"
+  },
+  "patient_Id": "COVID-19-AR-16406517",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "181",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "patchy lung opacities noted bilaterally which are slightly increased  from the prior examination",
+  "png_filename": "COVID-19-AR-16406517_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee0"
+  },
+  "patient_Id": "COVID-19-AR-16406524",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "42",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "atelectatic and infiltrative  changes more in the left retrocardiac and paracardiac region with  blunting of the costophrenic sulcus",
+  "png_filename": "COVID-19-AR-16406524_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee1"
+  },
+  "patient_Id": "COVID-19-AR-16406524",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "66",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Slightly increased consolidation in the left lower lobe.   Few scattered patchy airspace opacities and linear  atelectatic changes in both lungs, grossly unchanged.",
+  "png_filename": "COVID-19-AR-16406524_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee2"
+  },
+  "patient_Id": "COVID-19-AR-16439191",
+  "Diag_to_img_study_days": "-6",
+  "Diagnosis_to_imaging_time_hrs": "-124",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are well-aerated with no evidence of pneumonic infiltration  or pleural effusion",
+  "png_filename": "COVID-19-AR-16439191_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee3"
+  },
+  "patient_Id": "COVID-19-AR-16439191",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "he lungs are clear without focal airspace  opacification",
+  "png_filename": "COVID-19-AR-16439191_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee4"
+  },
+  "patient_Id": "COVID-19-AR-16424070",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR,DX",
+  "key_findings": "Chronic lung disease/emphysema  noted.  Multifocal airspace opacities are noted throughout both lungs.",
+  "png_filename": "COVID-19-AR-16424070_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee5"
+  },
+  "patient_Id": "COVID-19-AR-16424070",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "154",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Persistent consolidation in the  right upper lobe.  Small bilateral pleural effusions",
+  "png_filename": "COVID-19-AR-16424070_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee6"
+  },
+  "patient_Id": "COVID-19-AR-16424070",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "177",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Interval improved aeration from previous exam.  Patchy opacities   throughout the right upper, mid, and bilateral lower lungs ",
+  "png_filename": "COVID-19-AR-16424070_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee7"
+  },
+  "patient_Id": "COVID-19-AR-16424070",
+  "Diag_to_img_study_days": "9",
+  "Diagnosis_to_imaging_time_hrs": "226",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy lung opacities  again  noted bilaterally, possibly increased within the right lung base",
+  "png_filename": "COVID-19-AR-16424070_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee8"
+  },
+  "patient_Id": "COVID-19-AR-16424095",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "6",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "lungs are  clear, with no focal airspace disease",
+  "png_filename": "COVID-19-AR-16424095_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ee9"
+  },
+  "patient_Id": "COVID-19-AR-16424104",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "99",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Streaky opacities at both  lung bases,",
+  "png_filename": "COVID-19-AR-16424104_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eea"
+  },
+  "patient_Id": "COVID-19-AR-16439188",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "135",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy infiltrates in both lungs mainly in the periphery  bilaterally",
+  "png_filename": "COVID-19-AR-16439188_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eeb"
+  },
+  "patient_Id": "COVID-19-AR-16434356",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "10",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "The lungs  are clear",
+  "png_filename": "COVID-19-AR-16434356_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eec"
+  },
+  "patient_Id": "COVID-19-AR-16406508",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "59",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Interval development of diffuse bilateral airspace disease with only  partial sparing of the left lung apex.  ",
+  "png_filename": "COVID-19-AR-16406508_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eed"
+  },
+  "patient_Id": "COVID-19-AR-16406508",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "128",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "diffuse patchy airspace disease in both lungs",
+  "png_filename": "COVID-19-AR-16406508_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eee"
+  },
+  "patient_Id": "COVID-19-AR-16406508",
+  "Diag_to_img_study_days": "18",
+  "Diagnosis_to_imaging_time_hrs": "446",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "marked improvement in previous bilateral airspace disease with  minimal residual at left base, right lung now essentially clear",
+  "png_filename": "COVID-19-AR-16406508_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eef"
+  },
+  "patient_Id": "COVID-19-AR-16406508",
+  "Diag_to_img_study_days": "22",
+  "Diagnosis_to_imaging_time_hrs": "545",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Ill-defined airspace disease continuing in the  lung bases mainly in the lower lobes and in the right perihilar region.  These airspace opacities have worsened slightly in the interval. ",
+  "png_filename": "COVID-19-AR-16406508_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef0"
+  },
+  "patient_Id": "COVID-19-AR-16406508",
+  "Diag_to_img_study_days": "22",
+  "Diagnosis_to_imaging_time_hrs": "539",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " ill-defined bilateral airspace opacities within the central  mid to lower lungs ",
+  "png_filename": "COVID-19-AR-16406508_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef1"
+  },
+  "patient_Id": "COVID-19-AR-16434344",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "37",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Atelectatic changes are seen in the right lung base.  On  the left, there is diffuse haziness with partial obliteration of the  left hemidiaphragm interface",
+  "png_filename": "COVID-19-AR-16434344_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef2"
+  },
+  "patient_Id": "COVID-19-AR-16434344",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "54",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "left lower lobe opacity  improved but not fully resolved, minimal right infrahilar  opacity",
+  "png_filename": "COVID-19-AR-16434344_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef3"
+  },
+  "patient_Id": "COVID-19-AR-16445167",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Lungs are well inflated and clear,",
+  "png_filename": "COVID-19-AR-16445167_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef4"
+  },
+  "patient_Id": "COVID-19-AR-16434346",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "44",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are clear",
+  "png_filename": "COVID-19-AR-16434346_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef5"
+  },
+  "patient_Id": "COVID-19-AR-16434363",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "36",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy airspace opacities are seen in both lungs, involving the right  upper and right lower lobe and left lower lobe",
+  "png_filename": "COVID-19-AR-16434363_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef6"
+  },
+  "patient_Id": "COVID-19-AR-16424113",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "16",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are free of air space  disease",
+  "png_filename": "COVID-19-AR-16424113_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef7"
+  },
+  "patient_Id": "COVID-19-AR-16424113",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "84",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "patchy and slightly worsened airspace opacities  predominately in the lung bases",
+  "png_filename": "COVID-19-AR-16424113_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef8"
+  },
+  "patient_Id": "COVID-19-AR-16424113",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "185",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Increased diffuse haziness consistent with airspace disease",
+  "png_filename": "COVID-19-AR-16424113_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2ef9"
+  },
+  "patient_Id": "COVID-19-AR-16424077",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "16",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are clear and without  focal consolidation",
+  "png_filename": "COVID-19-AR-16424077_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2efa"
+  },
+  "patient_Id": "COVID-19-AR-16434391",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "43",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "patchy airspace opacities in the bilateral lung  bases, right greater than left ",
+  "png_filename": "COVID-19-AR-16434391_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2efb"
+  },
+  "patient_Id": "COVID-19-AR-16424118",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "22",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Stable appearance of chest, no acute disease.  ",
+  "png_filename": "COVID-19-AR-16424118_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2efc"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "-2",
+  "Diagnosis_to_imaging_time_hrs": "-37",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Increased interstitial changes in both lungs are symmetric",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2efd"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "21",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Worsening patchy, airspace opacities are seen throughout the bilateral  lungs, predominantly within the lateral aspect of the left lower lung",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2efe"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "52",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Worsening diffuse airspace disease noted throughout the  lungs",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2eff"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "79",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "interval worsening of diffuse  bilateral multifocal pneumonia with diffuse haziness of both lungs  consistent with the clinical concern for ARDS.  Changes in the right  are worse in comparison to the left. ",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f00"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "103",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "no significant change in bilateral  airspace opacities and interstitial prominence from the prior study",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f01"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "178",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "Persistent perhaps somewhat more diffuse bilateral airspace disease ",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-6"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f02"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "11",
+  "Diagnosis_to_imaging_time_hrs": "269",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR,",
+  "key_findings": "Multifocal consolidation and or atelectasis most significantly  involving the lingula/left lower lobe.  Small left pleural effusion ",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-7"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f03"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "21",
+  "Diagnosis_to_imaging_time_hrs": "512",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Extensive airspace disease throughout the lungs  shows no improvement",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-8"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f04"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "26",
+  "Diagnosis_to_imaging_time_hrs": "631",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Largely unchanged extensive bilateral airspace opacities",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-9"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f05"
+  },
+  "patient_Id": "COVID-19-AR-16406531",
+  "Diag_to_img_study_days": "30",
+  "Diagnosis_to_imaging_time_hrs": "739",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Diffuse multifocal  consolidation involving both lungs is seen and is worsened",
+  "png_filename": "COVID-19-AR-16406531_XR_CHEST_AP_PORTABLE_10.png",
+  "exam_Id": "Exam-10"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f06"
+  },
+  "patient_Id": "COVID-19-AR-16445143",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "17",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs  are clear",
+  "png_filename": "COVID-19-AR-16445143_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f07"
+  },
+  "patient_Id": "COVID-19-AR-16406533",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "15",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "diffuse opacities in the bilateral lung bases",
+  "png_filename": "COVID-19-AR-16406533_XR_CHEST_AP_PORTABLE_3.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f08"
+  },
+  "patient_Id": "COVID-19-AR-16406533",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "31",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Patchy ill-defined airspace disease in both lung bases,  little changed",
+  "png_filename": "COVID-19-AR-16406533_XR_CHEST_AP_ONLY_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f09"
+  },
+  "patient_Id": "COVID-19-AR-16406533",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "56",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Persistent bibasilar opacity consistent somewhat worse on left than right, overall very little change",
+  "png_filename": "COVID-19-AR-16406533_XR_CHEST_AP_ONLY_2.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f0a"
+  },
+  "patient_Id": "COVID-19-AR-16424072",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "patchy areas of ill-defined consolidation in both lower lobes.  The  upper lungs are still clear",
+  "png_filename": "COVID-19-AR-16424072_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f0b"
+  },
+  "patient_Id": "COVID-19-AR-16424072",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "31",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "interval decrease in aeration of the lungs with stable to  worsening bilateral lower lobe peribronchovascular airspace disease ",
+  "png_filename": "COVID-19-AR-16424072_XR_CHEST_AP_ONLY_5.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f0c"
+  },
+  "patient_Id": "COVID-19-AR-16424072",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "54",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Minimal interval improvement in patchy bilateral  airspace opacities",
+  "png_filename": "COVID-19-AR-16424072_XR_CHEST_AP_ONLY_5.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f0d"
+  },
+  "patient_Id": "COVID-19-AR-16424072",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "83",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "mild bibasilar atelectasis, patchy lung opacities bilaterally have not  changed significantly",
+  "png_filename": "COVID-19-AR-16424072_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f0e"
+  },
+  "patient_Id": "COVID-19-AR-16424072",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "128",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "worsening patchy areas  of consolidation in the mid to upper portions of the right lung and to  a lesser extent the lower left lung",
+  "png_filename": "COVID-19-AR-16424072_XR_CHEST_AP_ONLY_5.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f0f"
+  },
+  "patient_Id": "COVID-19-AR-16406512",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "10",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Faint  airspace opacities in the left mid lung along the left heart border",
+  "png_filename": "COVID-19-AR-16406512_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f10"
+  },
+  "patient_Id": "COVID-19-AR-16406512",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "78",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Worsening  consolidations noted in the lower lobes and mid right lung region",
+  "png_filename": "COVID-19-AR-16406512_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f11"
+  },
+  "patient_Id": "COVID-19-AR-16434444",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "17",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Low lung volumes with bibasilar atelectatic changes",
+  "png_filename": "COVID-19-AR-16434444_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f12"
+  },
+  "patient_Id": "COVID-19-AR-16434444",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "121",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Significant interval worsening in bilateral mid and lower lung  confluent peripheral airspace opacities,",
+  "png_filename": "COVID-19-AR-16434444_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f13"
+  },
+  "patient_Id": "COVID-19-AR-16434370",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No significant airspace consolidation evident  bilaterally",
+  "png_filename": "COVID-19-AR-16434370_XR_CHEST_AP_PORTABLE_4.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f14"
+  },
+  "patient_Id": "COVID-19-AR-16434370",
+  "Diag_to_img_study_days": "18",
+  "Diagnosis_to_imaging_time_hrs": "446",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Trace right basilar opacity felt to represent atelectatic changes.",
+  "png_filename": "COVID-19-AR-16434370_XR_CHEST_AP_PORTABLE_4.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f15"
+  },
+  "patient_Id": "COVID-19-AR-16407183",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "subtle streaky opacities  in the left lung base",
+  "png_filename": "COVID-19-AR-16407183_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f16"
+  },
+  "patient_Id": "COVID-19-AR-16407183",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "31",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": " slightly increased interstitial opacities noted bilaterally ",
+  "png_filename": "COVID-19-AR-16407183_XR_CHEST_AP_ONLY_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f17"
+  },
+  "patient_Id": "COVID-19-AR-16407183",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "106",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The opacities within the right mid  lung and base persist but have improved from the prior examination.",
+  "png_filename": "COVID-19-AR-16407183_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f18"
+  },
+  "patient_Id": "COVID-19-AR-16407183",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "138",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "persistent airspace disease within the left mid lung",
+  "png_filename": "COVID-19-AR-16407183_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f19"
+  },
+  "patient_Id": "COVID-19-AR-16407183",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "125",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Persistent minimally improved airspace disease within the left mid and  lower lung",
+  "png_filename": "COVID-19-AR-16407183_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f1a"
+  },
+  "patient_Id": "COVID-19-AR-16407183",
+  "Diag_to_img_study_days": "12",
+  "Diagnosis_to_imaging_time_hrs": "298",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "airspace disease in left  mid lung appears largely unchanged",
+  "png_filename": "COVID-19-AR-16407183_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-6"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f1b"
+  },
+  "patient_Id": "COVID-19-AR-16434395",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "13",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Focal area of consolidation within the right lower lobe",
+  "png_filename": "COVID-19-AR-16434395_XR_CHEST_AP_PORTABLE_7.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f1c"
+  },
+  "patient_Id": "COVID-19-AR-16434395",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "165",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Marked interval worsening with now multifocal airspace disease  throughout both lungs, somewhat patchy in density and distribution ",
+  "png_filename": "COVID-19-AR-16434395_XR_CHEST_AP_PORTABLE_7.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f1d"
+  },
+  "patient_Id": "COVID-19-AR-16434395",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "181",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Little change in the diffuse bilateral airspace disease ",
+  "png_filename": "COVID-19-AR-16434395_XR_CHEST_AP_PORTABLE_7.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f1e"
+  },
+  "patient_Id": "COVID-19-AR-16434395",
+  "Diag_to_img_study_days": "11",
+  "Diagnosis_to_imaging_time_hrs": "266",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "worsening consolidative changes  in both mid and lower lung zones.  Minimal bilateral pleural effusions ",
+  "png_filename": "COVID-19-AR-16434395_XR_CHEST_AP_PORTABLE_7.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f1f"
+  },
+  "patient_Id": "COVID-19-AR-16424076",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "23",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Upper lobe predominant emphysema",
+  "png_filename": "COVID-19-AR-16424076_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f20"
+  },
+  "patient_Id": "COVID-19-AR-16424076",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "20",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs appear clear with no evidence of airspace  consolidation",
+  "png_filename": "COVID-19-AR-16424076_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f21"
+  },
+  "patient_Id": "COVID-19-AR-16424076",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "25",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs remain clear.  No pleural effusion",
+  "png_filename": "COVID-19-AR-16424076_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f22"
+  },
+  "patient_Id": "COVID-19-AR-16424076",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "102",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Mild atelectatic changes at the right lung base.  There is no  focal consolidation.  The left lung appears clear. ",
+  "png_filename": "COVID-19-AR-16424076_XR_CHEST_AP_PORTABLE_6.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f23"
+  },
+  "patient_Id": "COVID-19-AR-16439194",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "29",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "diffuse hazy  lung opacities  bilaterally most significant within the right  perihilar region and bilateral lung bases",
+  "png_filename": "COVID-19-AR-16439194_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f24"
+  },
+  "patient_Id": "COVID-19-AR-16439194",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "62",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Worsening  bilateral airspace disease  predominately in the perihilar regions  and in the mid left lung",
+  "png_filename": "COVID-19-AR-16439194_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f25"
+  },
+  "patient_Id": "COVID-19-AR-16424120",
+  "Diag_to_img_study_days": "-1",
+  "Diagnosis_to_imaging_time_hrs": "-2",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are  slightly hypoinflated with left basilar atelectasis.  The right lung is  predominantly clear",
+  "png_filename": "COVID-19-AR-16424120_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f26"
+  },
+  "patient_Id": "COVID-19-AR-16424120",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "31",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "worsening patchy multifocal airspace  opacities mainly in the mid to lower lungs bilaterally. ",
+  "png_filename": "COVID-19-AR-16424120_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f27"
+  },
+  "patient_Id": "COVID-19-AR-16406492",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "133",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": "The lungs are clear and without  focal consolidation.",
+  "png_filename": "COVID-19-AR-16406492_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f28"
+  },
+  "patient_Id": "COVID-19-AR-16406579",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "13",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "subtle hazy opacity and left  lower lobe consistent with ground-glass airspace disease,  minimal right infrahilar airspace opacity, slight hazy right perihilar opacity",
+  "png_filename": "COVID-19-AR-16406579_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f29"
+  },
+  "patient_Id": "COVID-19-AR-16434349",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "170",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Both lungs are clear",
+  "png_filename": "COVID-19-AR-16434349_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f2a"
+  },
+  "patient_Id": "COVID-19-AR-16434396",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "8",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "CR",
+  "key_findings": " mild bibasilar airspace  opacities",
+  "png_filename": "COVID-19-AR-16434396_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f2b"
+  },
+  "patient_Id": "COVID-19-AR-16406541",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No dense consolidation or pleural effusion",
+  "png_filename": "COVID-19-AR-16406541_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f2c"
+  },
+  "patient_Id": "COVID-19-AR-16406541",
+  "Diag_to_img_study_days": "32",
+  "Diagnosis_to_imaging_time_hrs": "790",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs appear clear",
+  "png_filename": "COVID-19-AR-16406541_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f2d"
+  },
+  "patient_Id": "COVID-19-AR-16407176",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "182",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "atelectatic changes at the lung bases",
+  "png_filename": "COVID-19-AR-16407176_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f2e"
+  },
+  "patient_Id": "COVID-19-AR-16406529",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "11",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "No focal  airspace consolidation or pleural effusion",
+  "png_filename": "COVID-19-AR-16406529_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f2f"
+  },
+  "patient_Id": "COVID-19-AR-16407177",
+  "Diag_to_img_study_days": "8",
+  "Diagnosis_to_imaging_time_hrs": "208",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are clear and without  focal consolidation",
+  "png_filename": "COVID-19-AR-16407177_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f30"
+  },
+  "patient_Id": "COVID-19-AR-16424074",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "18",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Lungs are clear with no nodule,  airspace disease or pleural effusion",
+  "png_filename": "COVID-19-AR-16424074_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f31"
+  },
+  "patient_Id": "COVID-19-AR-16424074",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "57",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Peripheral patchy opacities with a mid lung predominance in  the bilateral lungs",
+  "png_filename": "COVID-19-AR-16424074_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f32"
+  },
+  "patient_Id": "COVID-19-AR-16424074",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "180",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "worsened diffuse bilateral mainly peripheral infiltrates  involving both lungs",
+  "png_filename": "COVID-19-AR-16424074_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f33"
+  },
+  "patient_Id": "COVID-19-AR-16407187",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "19",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy bilateral ground-glass/consolidative opacities are seen in the bilateral lung bases.",
+  "png_filename": "COVID-19-AR-16407187_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f34"
+  },
+  "patient_Id": "COVID-19-AR-16407187",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "61",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "patchy opacities throughout both lungs, not significantly  changed from the prior examination",
+  "png_filename": "COVID-19-AR-16407187_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f35"
+  },
+  "patient_Id": "COVID-19-AR-16407187",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "102",
+  "Image_study_description": "XR CHEST AP ONLY",
+  "study_modality": "DX",
+  "key_findings": "Essentially stable bilateral patchy ground-glass and consolidative  opacities throughout both lungs. ",
+  "png_filename": "COVID-19-AR-16407187_XR_CHEST_AP_ONLY_3.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f36"
+  },
+  "patient_Id": "COVID-19-AR-16424108",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "17",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "The lungs are clear without evidence of focal  consolidation",
+  "png_filename": "COVID-19-AR-16424108_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f37"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "19",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "minimal right sided effusion and right basilar  atelectasis",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f38"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "16",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Atelectasis and pleural effusion on the right with no acute airspace  changes on the left",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f39"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "29",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Streaky consolidation still present in the lung bases without improvement.  There may be some residual pleural fluid mainly on the right side without worsening.",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f3a"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "2",
+  "Diagnosis_to_imaging_time_hrs": "55",
+  "Image_study_description": "XR ACUTE ABDOMINAL SERIES W PA CHEST PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Evidence of bibasilar  atelectasis .  There is also blunting of the CP angles  indicative of small effusions. ",
+  "png_filename": "COVID-19-AR-16424111_XR_ACUTE_ABDOMINAL_SERIES_W_PA_CHEST_PORTABLE_4.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f3b"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "3",
+  "Diagnosis_to_imaging_time_hrs": "80",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Lungs are underinflated with patchy and streaky airspace opacities along the lung bases and mid right lung region.",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-6"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f3c"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "103",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Patchy bibasilar opacities again seen likely atelectasis, no change. ",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-7"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f3d"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "126",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Small right pleural effusion is seen with right lower lobe atelectasis.  No pneumothorax is seen.  Left basilar atelectasis is seen.",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-8"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f3e"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "144",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Linear opacities are seen within the bilateral lung bases with a small right-sided pleural effusion.  ",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-9"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f3f"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "7",
+  "Diagnosis_to_imaging_time_hrs": "174",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Mildly worsened right lung base airspace opacity.  Unchanged left lung base atelectasis. ",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-10"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f40"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "8",
+  "Diagnosis_to_imaging_time_hrs": "198",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Bilateral lower lung atelectatic changes with question of superimposed airspace opacity on both sides, mildly improved. ",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-11"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f41"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "9",
+  "Diagnosis_to_imaging_time_hrs": "223",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Persistent linear  atelectasis is seen within the bilateral lung bases.  Probable small  bilateral pleural effusions.  ",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-12"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f42"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "10",
+  "Diagnosis_to_imaging_time_hrs": "245",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Persistent bibasilar atelectatic changes  with probable small left pleural effusion.  ",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-13"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f43"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "11",
+  "Diagnosis_to_imaging_time_hrs": "269",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Small left pleural effusion.  Mild bibasilar atelectatic changes,  improving",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-14"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f44"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "12",
+  "Diagnosis_to_imaging_time_hrs": "295",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Bibasilar atelectasis and small bilateral effusions are again noted",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-15"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f45"
+  },
+  "patient_Id": "COVID-19-AR-16424111",
+  "Diag_to_img_study_days": "13",
+  "Diagnosis_to_imaging_time_hrs": "319",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Trace  bilateral pleural effusions/pleural thickening.  Mild bibasilar  atelectatic changes.  No superimposed airspace consolidation. ",
+  "png_filename": "COVID-19-AR-16424111_XR_CHEST_AP_PORTABLE_17.png",
+  "exam_Id": "Exam-16"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f46"
+  },
+  "patient_Id": "COVID-19-AR-16434399",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "19",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "There are confluent bilateral airspace opacities with a mid and lower lung predominance, more prominent on the left than the right, which represent multifocal infection.  ",
+  "png_filename": "COVID-19-AR-16434399_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f47"
+  },
+  "patient_Id": "COVID-19-AR-16434453",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "22",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Ill-defined left lower lung airspace opacities ",
+  "png_filename": "COVID-19-AR-16434453_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f48"
+  },
+  "patient_Id": "COVID-19-AR-16434453",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "32",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Ill-defined bilateral lower lung airspace opacities are again demonstrated, mildly worsened on this exam.  ",
+  "png_filename": "COVID-19-AR-16434453_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f49"
+  },
+  "patient_Id": "COVID-19-AR-16434453",
+  "Diag_to_img_study_days": "9",
+  "Diagnosis_to_imaging_time_hrs": "236",
+  "Image_study_description": "XR ACUTE ABDOMINAL SERIES W PA CHEST PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Hazy opacities  within the bilateral lung bases ",
+  "png_filename": "COVID-19-AR-16434453_XR_ACUTE_ABDOMINAL_SERIES_W_PA_CHEST_PORTABLE_3.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f4a"
+  },
+  "patient_Id": "COVID-19-AR-16434383",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "1",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "There are bibasilar airspace opacities, left worse than right. ",
+  "png_filename": "COVID-19-AR-16434383_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f4b"
+  },
+  "patient_Id": "COVID-19-AR-16434383",
+  "Diag_to_img_study_days": "1",
+  "Diagnosis_to_imaging_time_hrs": "28",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Interval worsening airspace opacities in both lungs.  Mild bilateral pleural effusions.",
+  "png_filename": "COVID-19-AR-16434383_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f4c"
+  },
+  "patient_Id": "COVID-19-AR-16434383",
+  "Diag_to_img_study_days": "6",
+  "Diagnosis_to_imaging_time_hrs": "158",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "There is been interval improvement in somewhat confluent diffuse airspace opacities throughout both lungs",
+  "png_filename": "COVID-19-AR-16434383_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-3"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f4d"
+  },
+  "patient_Id": "COVID-19-AR-16434383",
+  "Diag_to_img_study_days": "10",
+  "Diagnosis_to_imaging_time_hrs": "255",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "There are stable patchy airspace opacities throughout the bilateral lungs.",
+  "png_filename": "COVID-19-AR-16434383_XR_CHEST_AP_PORTABLE_5.png",
+  "exam_Id": "Exam-4"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f4e"
+  },
+  "patient_Id": "COVID-19-AR-16434383",
+  "Diag_to_img_study_days": "11",
+  "Diagnosis_to_imaging_time_hrs": "275",
+  "Image_study_description": "XR CHEST PA ONLY",
+  "study_modality": "DX",
+  "key_findings": "Multiple predominately peripheral infiltrates are seen throughout both  lungs, somewhat more extensive in the right lung compared to the left",
+  "png_filename": "COVID-19-AR-16434383_XR_CHEST_PA_ONLY_4.png",
+  "exam_Id": "Exam-5"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f4f"
+  },
+  "patient_Id": "COVID-19-AR-16439200",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "14",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Hypoinflated lungs with bibasilar opacities",
+  "png_filename": "COVID-19-AR-16439200_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f50"
+  },
+  "patient_Id": "COVID-19-AR-16439200",
+  "Diag_to_img_study_days": "4",
+  "Diagnosis_to_imaging_time_hrs": "101",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Lungs are moderately inflated but there are worsening ill-defined infiltrates predominately in the periphery of both lungs. ",
+  "png_filename": "COVID-19-AR-16439200_XR_CHEST_AP_PORTABLE_2.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f51"
+  },
+  "patient_Id": "COVID-19-AR-16439190",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "22",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Diffusely distributed throughout the lungs are areas of consolidation and ground-glass changes",
+  "png_filename": "COVID-19-AR-16439190_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f52"
+  },
+  "patient_Id": "COVID-19-AR-16445122",
+  "Diag_to_img_study_days": "0",
+  "Diagnosis_to_imaging_time_hrs": "19",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": "Hazy airspace changes are seen in both lung bases with no evidence of consolidation.",
+  "png_filename": "COVID-19-AR-16445122_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-2"
+},{
+  "_id": {
+    "$oid": "62082528799b0425669c2f53"
+  },
+  "patient_Id": "COVID-19-AR-16445149",
+  "Diag_to_img_study_days": "5",
+  "Diagnosis_to_imaging_time_hrs": "134",
+  "Image_study_description": "XR CHEST AP PORTABLE",
+  "study_modality": "DX",
+  "key_findings": " Hypoinflated lungs with minimal bibasilar opacities",
+  "png_filename": "COVID-19-AR-16445149_XR_CHEST_AP_PORTABLE_1.png",
+  "exam_Id": "Exam-1"
+}
+]

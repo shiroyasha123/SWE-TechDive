@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" /> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css" />
+    <title>IDRC</title>
+  </head>
+  <body>
+
+    <!-- NAV -->
+    <div class="navbar-dark sticky-top">
+      <div class="navbar navbar-expand-sm">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.html">IDRC</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="#">EXAMS</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="admin.html">ADMIN</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="exam-table-top" class="text-center text-white sticky-top">
+        <input id="search-input" autocomplete="off" placeholder="Enter Patient ID......" ></input>
+        <h1 class="exam-total">
+            Total Exams:232
+        </h1>
+      </div>
+    </div><!--/ NAV -->
+
+    <!-- Exam-table -->
+    <div id="exam-table responsive" class="">
+      <div id="exams ">
+        <div class="wrapper">
+        <div class="table">
+          <div class="exam-row header text-center ">
+            <div class="cell align-middle">Xray</div>
+            <div class="cell align-middle">Patient ID</div>
+            <div class="cell align-middle">Exam ID</div>
+            <div class="cell align-middle">Key Findings</div>
+            <div class="cell align-middle">Study Modality</div>
+            <div class="cell align-middle">Age</div>
+            <div class="cell align-middle">Gender</div>
+            <div class="cell align-middle">BMI</div>
+            <div class="cell align-middle">Zip Code</div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div><!--/Exam-table -->
+
+    <!-- Modal -->
+    <div id="exam-modal"><!-- Exam modal goes here --></div>
+
+    <footer class="fixed-bottom text-center">
+      <h5>© IDRC all rights reserved - 2022.</h5>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="exams.json"></script>
+    <script type="text/javascript" src="Patient_Data.json"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
