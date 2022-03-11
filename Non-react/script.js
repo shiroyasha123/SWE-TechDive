@@ -33,6 +33,11 @@ function examPatientMatch(exam) {
     }
 }
 
+// Saves Exam to API
+
+
+
+
 // Displays Exams to site
 function displayExams(examData) {
     let examHTML = '';
@@ -53,15 +58,13 @@ function displayExams(examData) {
 
         <div class="cell align-middle patId" data-title="Patient ID"><button onClick="patientSearch(${index})" type="button" class="btn btn-primary">${patientId}</button></div>
 
-        <div class="cell align-middle" data-title="Exam ID"><button onClick="showModal(${index},'examModal')" type="button" class="btn btn-primary">${examId} Details</button></div>
-
+        <div class="cell align-middle" data-title="Exam ID">
+            <button onClick="showModal(${index},'examModal')" type="button" class="btn btn-primary">${examId} Details</button>
+        </div>
 
         <div id="admin-btns" class="cell align-middle d-none" data-title="Admin">
-
             <button onClick="updateModal(${index},'update')" type="button" class="btn bg-info">Update</button>
-
             <button onClick="showModal(${index},'delete')" type="button" class="btn bg-danger">Delete</button>
-
         </div>
 
         <div class="cell align-middle keyFind" data-title="Key FIndings">${keyFind}</div>
@@ -100,8 +103,6 @@ function runSearch() {
         })
 
         total = document.querySelectorAll('.hideExam').length
-        console.log(total)
-
         if (total == 232 ) {
             keyFinds.forEach( find => {
                 let keyFind = find.innerHTML
@@ -248,8 +249,8 @@ const showModal = (index,button) => {
         <div class="modal-dialog modal-fullscreen">
           <div class="modal-content">
             <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">${examInfo.exam_Id} / ${examInfo.patient_Id}</h5>
-              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            <h5 class="modal-title text-info" id="exampleModalLabel">${examInfo.exam_Id} / ${examInfo.patient_Id}</h5>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Cancel"></button>
             </div>
 
             <div class="modal-body update-info">
@@ -259,75 +260,75 @@ const showModal = (index,button) => {
                         <div class="update-form-info container">
                             <h2>EXAM INFO</h2>
                             <div class="update-form-control">
-                                <input type="text" value="${examInfo.exam_Id}" required>
-                                <label class="label">Exam ID</label>
+                                <input id="exam_Id" type="text" value="${examInfo.exam_Id}" required>
+                                <label for="exam_Id" class="label">Exam ID</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${examInfo.Diag_to_img_study_days}" required>
-                                <label class="label">Imaging time (days)</label>
+                                <input id="Diag_to_img_study_days" type="text" value="${examInfo.Diag_to_img_study_days}" required>
+                                <label for="Diag_to_img_study_days" class="label">Imaging time (days)</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${examInfo.Diagnosis_to_imaging_time_hrs}" required>
-                                <label class="label">Imaging time (hours)</label>
+                                <input id="Diagnosis_to_imaging_time_hrs" type="text" value="${examInfo.Diagnosis_to_imaging_time_hrs}" required>
+                                <label for="Diagnosis_to_imaging_time_hrs" class="label">Imaging time (hours)</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${examInfo.Image_study_description}" required>
-                                <label class="label">Image Study Description</label>
+                                <input id="Image_study_description" type="text" value="${examInfo.Image_study_description}" required>
+                                <label for="Image_study_description" class="label">Image Study Description</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${examInfo.study_modality}" required>
-                                <label class="label">Study Modality</label>
+                                <input id="study_modality" type="text" value="${examInfo.study_modality}" required>
+                                <label for="study_modality" class="label">Study Modality</label>
                             </div>
                             <div class="update-form-control">
                                 <p>Key Findings</p>
-                                <textarea class="update-textarea">${examInfo.key_findings}</textarea>
+                                <textarea id="key_findings" class="update-textarea">${examInfo.key_findings}</textarea>
                             </div>
                         </div>
                         <div class="update-form-info container">
                         <h2>Patient INFO</h2>
                             <div class="update-form-control">
-                                <input type="text" value="${examInfo.patient_Id}" required>
-                                <label class="label">Patient ID</label>
+                                <input id="patient_Id" type="text" value="${examInfo.patient_Id}" required>
+                                <label for="patient_Id" class="label">Patient ID</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${patientInfo.test}" required>
-                                <label class="label">Test Name</label>
+                                <input id="test" type="text" value="${patientInfo.test}" required>
+                                <label for="test" class="label">Test Name</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${patientInfo.AGE}" required>
-                                <label class="label">AGE</label>
+                                <input id="AGE" type="text" value="${patientInfo.AGE}" required>
+                                <label for="AGE" class="label">Age</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${patientInfo.SEX}" required>
-                                <label class="label">Gender</label>
+                                <input id="SEX" type="text" value="${patientInfo.SEX}" required>
+                                <label for="SEX" class="label">Gender</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${patientInfo.LATEST_BMI}" required>
-                                <label class="label">Latest BMI</label>
+                                <input id="LATEST_BMI" type="text" value="${patientInfo.LATEST_BMI}" required>
+                                <label for="LATEST_BMI" class="label">Latest BMI</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${patientInfo.ZIP}" required>
-                                <label class="label">Zip Code</label>
+                                <input id="ZIP" type="text" value="${patientInfo.ZIP}" required>
+                                <label for="ZIP" class="label">Zip Code</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" value="${patientInfo.latest_weight}" required>
-                                <label class="label">Latest Weight</label>
+                                <input id="latest_weight" type="text" value="${patientInfo.latest_weight}" required>
+                                <label for="latest_weight" class="label">Latest Weight</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required value="${patientInfo.height}">
-                                <label class="label">Latest Height</label>
+                                <input id="height" type="text" required value="${patientInfo.height}">
+                                <label for="height" class="label">Latest Height</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required value="${patientInfo.DIABETES_TYPE_I}">
-                                <label class="label">Diabetes Type I</label>
+                                <input id="DIABETES_TYPE_I" type="text" required value="${patientInfo.DIABETES_TYPE_I}">
+                                <label for="DIABETES_TYPE_I" class="label">Diabetes Type I</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required value="${patientInfo.DIABETES_TYPE_II}">
-                                <label class="label">Diabetes Type II</label>
+                                <input id="DIABETES_TYPE_II" type="text" required value="${patientInfo.DIABETES_TYPE_II}">
+                                <label for="DIABETES_TYPE_II" class="label">Diabetes Type II</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required value="${patientInfo.icu_admit}">
-                                <label class="label">ICU Admit</label>
+                                <input id="icu_admit" type="text" required value="${patientInfo.icu_admit}">
+                                <label for="icu_admit" class="label">ICU Admit</label>
                             </div>
                         </div>    
                     </form>
@@ -335,19 +336,20 @@ const showModal = (index,button) => {
                 </div>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button  data-bs-dismiss="modal" onClick="showModal(${index},'updateCompl')" type="button" class="btn btn-info">UPDATE</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
           </div>
         </div>
       </div>
         `
     } else if ( button == 'create') {
-        displayModal.innerHTML =        displayModal.innerHTML =`
+        displayModal.innerHTML =`
         <div class="modal fade" id="exam-modal"  tabindex="-1">
         <div class="modal-dialog modal-fullscreen">
           <div class="modal-content">
             <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">New Exam</h5>
+            <h5 class="modal-title text-success"  id="exampleModalLabel">New Exam</h5>
               <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
 
@@ -358,92 +360,177 @@ const showModal = (index,button) => {
                         <div class="update-form-info container">
                             <h2>EXAM INFO</h2>
                             <div class="update-form-control">
-                                <input type="text" required>
-                                <label class="label">Exam ID</label>
+                                <input id="exam_Id" type="text" required>
+                                <label for="exam_Id" class="label">Exam ID</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required>
-                                <label class="label">Imaging time (days)</label>
+                                <input id="Diag_to_img_study_days" type="text" required>
+                                <label for="Diag_to_img_study_days" class="label">Imaging time (days)</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required>
-                                <label class="label">Imaging time (hours)</label>
+                                <input id="Diagnosis_to_imaging_time_hrs" type="text" required>
+                                <label for="Diagnosis_to_imaging_time_hrs" class="label">Imaging time (hours)</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required>
-                                <label class="label">Image Study Description</label>
+                                <input id="Image_study_description" type="text" required>
+                                <label for="Image_study_description" class="label">Image Study Description</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required>
-                                <label class="label">Study Modality</label>
+                                <input id="study_modality" type="text" required>
+                                <label for="study_modality" class="label">Study Modality</label>
                             </div>
                             <div class="update-form-control">
                                 <p>Key Findings</p>
-                                <textarea class="update-textarea"></textarea>
+                                <textarea id="key_findings" class="update-textarea"></textarea>
                             </div>
                         </div>
                         <div class="update-form-info container">
                         <h2>Patient INFO</h2>
                             <div class="update-form-control">
-                                <input type="text" required>
-                                <label class="label">Patient ID</label>
+                                <input id="patient_Id" type="text" required>
+                                <label for="patient_Id" class="label">Patient ID</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text"  required>
-                                <label class="label">Test Name</label>
+                                <input id="test" type="text"  required>
+                                <label for="test" class="label">Test Name</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text"  required>
-                                <label class="label">AGE</label>
+                                <input id="AGE" type="text"  required>
+                                <label for="AGE" class="label">Age</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required>
-                                <label class="label">Gender</label>
+                                <input id="SEX" type="text" required>
+                                <label for="SEX" class="label">Gender</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text"  required>
-                                <label class="label">Latest BMI</label>
+                                <input id="LATEST_BMI" type="text"  required>
+                                <label for="LATEST_BMI" class="label">Latest BMI</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text"  required>
-                                <label class="label">Zip Code</label>
+                                <input id="ZIP" type="text"  required>
+                                <label for="ZIP" class="label">Zip Code</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" " required>
-                                <label class="label">Latest Weight</label>
+                                <input id="latest_weight" type="text" " required>
+                                <label for="latest_weight" class="label">Latest Weight</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required >
-                                <label class="label">Latest Height</label>
+                                <input id="height" type="text" required >
+                                <label for="height" class="label">Latest Height</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required >
-                                <label class="label">Diabetes Type I</label>
+                                <input id="DIABETES_TYPE_I" type="text" required >
+                                <label for="DIABETES_TYPE_I" class="label">Diabetes Type I</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required >
-                                <label class="label">Diabetes Type II</label>
+                                <input id="DIABETES_TYPE_II" type="text" required >
+                                <label for="DIABETES_TYPE_II" class="label">Diabetes Type II</label>
                             </div>
                             <div class="update-form-control">
-                                <input type="text" required >
-                                <label class="label">ICU Admit</label>
+                                <input id="icu_admit" type="text" required >
+                                <label for="icu_admit" class="label">ICU Admit</label>
                             </div>
                         </div>   
                     </form>
-                </div>
-                
+                </div>   
             </div>
             <div class="modal-footer">
-                <button class="btn btn-info form-btn text-center">SAVE EXAM</button>
+                <button  data-bs-dismiss="modal" onClick="showModal(${index},'createCompl')" type="button" class="btn bg-success">CREATE EXAM</button>
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
           </div>
         </div>
       </div>
         `
+    } else if ( button == 'delete') {
+        displayModal.innerHTML =`
+        <div class="modal fade" id="exam-modal"  tabindex="-1">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title text-danger" id="exampleModalLabel">Delete Exam</h5>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body update-info">
+             <h5> Are you sure you want to delete <span class='text-danger fs-2'>${exams[index].exam_Id}</span> for <span class="text-danger fs-2">${examInfo.patient_Id}</span></h5>
+            </div>
+            <div class="modal-footer">
+                <button  data-bs-dismiss="modal" onClick="showModal(${index},'deleteCompl')" type="button" class="form-btn btn btn-danger">DELETE EXAM</button>
+                <button type="button" class="btn btn-info" data-bs-dismiss="modal">Cancel</button>
+            </div>
+          </div>
+        </div>
+      </div> `
     }
+
+    else if ( button == 'updateCompl') {
+         
+        displayModal.innerHTML =`
+        <div class="modal fade" id="exam-modal"  tabindex="-1">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title text-info" id="exampleModalLabel">Update Exam</h5>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body update-info">
+             <h5><span class='text-info fs-2'>${exams[index].exam_Id}</span> for <span class="text-info fs-2">${examInfo.patient_Id}</span> has been updated</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div> `
+    }
+
+    else if ( button == 'createCompl') {
+         
+        displayModal.innerHTML =`
+        <div class="modal fade" id="exam-modal"  tabindex="-1">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title text-success" id="exampleModalLabel">Created Exam</h5>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body update-info">
+             <h5><span class='text-success fs-2'>${exams[index].exam_Id}</span> for <span class="text-success fs-2">${examInfo.patient_Id}</span> has been created</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div> `
+    }  else if ( button == 'deleteCompl') {
+        displayModal.innerHTML =`
+        <div class="modal fade" id="exam-modal"  tabindex="-1">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title text-danger" id="exampleModalLabel">Deleted Exam</h5>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body update-info">
+             <h5><span class='text-danger fs-2'>${exams[index].exam_Id}</span> for <span class="text-danger fs-2">${examInfo.patient_Id}</span> has been deleted</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div> `
+    }
+    
+
+    
+    
+    
 
     // document.body.append(examModal);
     let modal = new bootstrap.Modal(displayModal.querySelector('.modal'));
     modal.show();
 }
+// document.getElementById('elementID').click();
+// mongodb+srv://aibrahim:123@idrc.igyue.mongodb.net/test?authSource=admin&replicaSet=atlas-i29wmw-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true

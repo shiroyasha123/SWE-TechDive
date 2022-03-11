@@ -40,6 +40,12 @@ a {
   background: #121212!important
 }
 
+#create-btn {
+  width: 100%;
+  max-width: 500px;
+  align-self: center;
+}
+
 /* -----------------------EXAM TABLE------------------------*/
 
 th {
@@ -150,6 +156,11 @@ tbody {
 
 .admin #admin-btns {
   display: inline-block!important;
+}
+
+#admin-btns button {
+  margin: 5px !important;
+  width: 100px;
 }
 
 
@@ -296,7 +307,7 @@ footer {
 
 .update-form-control input:focus + label span,
 .update-form-control input:valid + label span {
-  color:lightskyblue;
+  color:#0dcaf0;
   transform: translateY(-30px);
 }
 
