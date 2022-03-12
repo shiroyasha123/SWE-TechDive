@@ -524,10 +524,90 @@ const showModal = (index,button) => {
     }
     
 
-    
-    
-    
+    var selectedRow=null;
+    function onFormSubmit (e){
+        event.preventDefault();
+        var formData = readFormData();
+        if(selectedRow==NULL){
+            insertNewRecord(formData);
+        }
+        else {
+            updateRecord(formData);
+        }
+        resetForm();
+    }
+    function readFormData(){
+        var formData = {};
+        formData["patient_Id"] = document.getElementById("patient_Id").value;
+        formData["AGE"] = document.getElementById("AGE").value;
+        formData["SEX"] = document.getElementById("SEX").value;
+        formData["LATEST_BMI"] = document.getElementById("LATEST_BMI").value;
+        formData["ZIP"] = document.getElementById("ZIP").value;
+        return formData;
+    }
+    function insertNewRecord(data){
+        var table = document.getElementById("myTable").getElementsByTagName('tbody')[0];
+        var newRow = table.insertRow(table.length);
+        
+        var cell1= newRow.insertCell(0);
+            cell1.insertHTML = data.PATIENT_ID;
+        
+        var call2= newRow.insertCell(1);
+            cell2.innerHTML = data.AGE;
+       
+        var call3= newRow.insertCell(2);
+            cell3.innerHTML = data.SEX;
+        
+        var call4= newRow.insertCell(3);
+            cell4.innerHTML = data.LATEST_BMI;
 
+        var call5= newRow.insertCell(4);
+            cell5.innerHTML = data.ZIP;
+            
+        var call6= newRow.insertCell(5);
+            cell6.innerHTML = `<button onClick= 'onEdit(this)'>Update</button> <button onClick= 'onDelete(this)'>Delete</button>`
+    }
+
+    function onUpdate(){
+        selectedRow = td.parentElement.parentElement
+        document.getElementById("patient_Id").value =selectedRow.cells[0].innerHTML
+        document.getElementById("AGE").value =selectedRow.cells[1].innerHTML
+        document.getElementById("SEX").value =selectedRow.cells[2].innerHTML
+        document.getElementById("LATEST_BMI").value =selectedRow.cells[3].innerHTML
+        document.getElementById("ZIP").value =selectedRow.cells[4].innerHTML
+    }
+    //update data
+    function updateRecord(formData){
+        selectedRow.cells[0].innerHTML = formData.PATIENT_ID;
+        selectedRow.cells[1].innerHTML = formData.AGE;
+        selectedRow.cells[2].innerHTML = formData.SEX;
+        selectedRow.cells[3].innerHTML = formData.LATEST_BMI;
+        selectedRow.cells[4].innerHTML = formData.ZIP;
+    }
+    //delete data
+    function onDelete(id){
+        if (confirm("Do you want to delete this record? ")){
+            row= td.parentElement.parentElement;
+            document.getElementById('myTable').deleteRow(row.rowIndex);
+        }
+        resetForm();
+    }
+    function resetForm (){
+        document.getElementById('patient_Id').value= ' ';
+        document.getElementById('AGE').value= ' ';
+        document.getElementById('SEX').value= ' ';
+        document.getElementById('LATEST_BMI').value= ' ';
+        document.getElementById('ZIP').value= ' ';
+
+    }
+    function onEdit(id){
+        selectedRow =td.parentElement.parentElement;
+        document.getElementById("patient_Id").value =selectedRow.cells[0].innerHTML
+        document.getElementById("AGE").value =selectedRow.cells[1].innerHTML
+        document.getElementById("SEX").value =selectedRow.cells[2].innerHTML
+        document.getElementById("LATEST_BMI").value =selectedRow.cells[3].innerHTML
+        document.getElementById("ZIP").value =selectedRow.cells[4].innerHTML
+    }
     // document.body.append(examModal);
     let modal = new bootstrap.Modal(displayModal.querySelector('.modal'));
     modal.show();
